@@ -1,0 +1,56 @@
+--- 
+title: "C8-opas"
+author: "Remo Kapanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description:
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# C8
+
+Tässä oppaassa esitellään lukumateriaalit, jotka kannattaa käydä läpi ennen jokaista tägiä. 
+
+ps. Koska C8 järjestetään blokeissa (olen itse blokissa 1), en ehdi saamaan kaikkia kortteja/tärppirebuildeja valmiiksi jokaiselle blokille ennen kyseisen blokin tenttiä.
+
+<!--chapter:end:index.Rmd-->
+
+# KNK
+
+## 01 Korvan rakenne, toiminta ja tavalliset poikkeavuudet
+
+Pääasiassa vain kertausta C2:n Aistit-kurssilta. Diat riittävät, mutta jos jää epäselvyyksiä, niin voi katsoa seuraavia videoita:
+
+- [Lyhyt tiivistelmä kuulemisen fysiologiasta](https://youtu.be/m_9SqIQ0BQQ?si=7wgRV4Af-paLQxU2)
+- [Lyhyt tiivistelmä vestibulaarisysteemistä](https://youtu.be/ryGMI3SpxCE?si=9iWXNCKPqgmhWkNP)
+- [Kaarikäytävien fysiologia](https://youtu.be/MMSG4cbNp_0?si=tgu1if6QFjuac9EK)
+- [Utriculus ja sacculus](https://youtu.be/5iZAnn5HlVw?si=B9hhirLyV5Egct_C)
+
+Kirjasta luento käsittelee 1.1. ja 1.2. sekä 1.10-kappaleesta "Ulko- ja välikorvan kehityshäiriöt
+
+## 02 Korvakäytävätulehdus ja ympäröivien rakenteiden aiheuttamat korvan kiputilat {#Korvakaytavatulehdus}
+
+
+<!--chapter:end:01-KNK.Rmd-->
+
+# Neuro
+
+<!--chapter:end:02-Neuro.Rmd-->
+
+# Psykiatria
+
+
+
+<!--chapter:end:03-Psyka.Rmd-->
+
+# Palaute
+
+Tyypilliseen tapaan palautetta/parannusehdotuksia voi antaa sähköpostiin (reakap@utu.fi) tai anonyyminä [Formsin](https://docs.google.com/forms/d/e/1FAIpQLSdUj0WdEA7kq9Smq4HyxbSGYL0galemO9QOgfV-2HT-yRsqJw/viewform?usp=sharing&ouid=112689903880978617225) kautta
+
+<!--chapter:end:07-references.Rmd-->
+
