@@ -13,3 +13,34 @@ Kirjasta luento käsittelee 1.1. ja 1.2. sekä 1.10-kappaleesta "Ulko- ja välik
 
 ## 02 Korvakäytävätulehdus ja ympäröivien rakenteiden aiheuttamat korvan kiputilat {#Korvakaytavatulehdus}
 
+Diat riittävät. TMD:n suhteen voi silmäillä [TMD:n käypä hoitoa](https://www.kaypahoito.fi/hoi50057), mutta ei tarvitse kovinkaan tarkasti osata tässä vaiheessa. 
+
+Kirjasta luento käsittelee kappaleen 1.10 loppuun. 
+
+## 03 Välikorvan sairaudet 1 {#Valikorva1}
+
+Lue diojen lisäksi [tympanometriasta](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00740). Kannattaa lisäksi silmäillä seuraavia: 
+
+- [Tärykalvoreikä-artikkelista osio traumaattinen tärykalvoreikä](https://www.terveysportti.fi/apps/dtk/ltk/article/duo11611/)
+- [Tuba aperta-potilastapaus ja hoitosuosituksia](https://www.duodecimlehti.fi/duo10297)
+- [Lasten välikorvatulehdusten Käypä Hoito](https://www.kaypahoito.fi/hoi31050)
+- [AOM aikuisella](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00991/)
+- SketchyPeds: Otitis media SOAP
+ 
+Käsittelee kirjasta kappaleesta 1.11 osiot "Vammat", "Korvatorven toimintahäiriöt" ja "Äkillinen välikorvatulehdus (otitis media acuta)". myös "Välikorvatulehduksen komplikaatiot" ja sen alla olevat tarkemmat osiot komplikaatioista kannattaa lukea. Lisäksi suosittelen lukemaan kpl 1.5 "Immittanssimittaukset" (käsittelee tympanometrian perusteita). 
+
+## 04 Välikorvan sairaudet 2 {#Valikorva2}
+
+Käsittelee kroonisemmat välikorvaongelmat. Diat riittävät. Kannattaa lisäksi silmäillä seuraavia: 
+
+- [Liimakorva-artikkeli](https://www.duodecimlehti.fi/duo18662)
+- [Krooninen välikorvatulehdus, Terveysportti](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00992/)
+- [Tärykalvoreikä; Terveysportti](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt02089/). Samoin [tämän artikkelin](https://www.terveysportti.fi/apps/dtk/ltk/article/duo11611/) voi lukea.
+
+Käsittelee kirjan kappaleen 1.11. loppuun. 
+
+## 05 Kuulokäyrän tulkinta ja erilaiset kuuloviat {#Kuulokayra}
+
+## 06 Korvaperäisen huimauksen diagnostiikka {#Korvaperaisen-huimauksen-diagnostiikka}
+
+## 07 Kuulon suojaaminen, kuulo ja työ, tinnitus {#Kuulon-suojaaminen}

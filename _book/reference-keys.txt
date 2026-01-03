@@ -2,6 +2,11 @@ c8
 knk
 korvan-rakenne-toiminta-ja-tavalliset-poikkeavuudet
 Korvakaytavatulehdus
+Valikorva1
+Valikorva2
+Kuulokayra
+Korvaperaisen-huimauksen-diagnostiikka
+Kuulon-suojaaminen
 neuro
 psykiatria
 palaute
