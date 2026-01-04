@@ -39,8 +39,10 @@ Käsittelee kroonisemmat välikorvaongelmat. Diat riittävät. Kannattaa lisäks
 
 Käsittelee kirjan kappaleen 1.11. loppuun. 
 
-## 05 Kuulokäyrän tulkinta ja erilaiset kuuloviat {#Kuulokayra}
+## 05 Audiometria (Kuulokäyrän tulkinta ja erilaiset kuuloviat) {#Audiometria}
 
-## 06 Korvaperäisen huimauksen diagnostiikka {#Korvaperaisen-huimauksen-diagnostiikka}
+Ei sinänsä tarvitse lukea dioja eikä kirjaa (käsittelee kappaleen 1.4 "Äänes- ja puheaudiometria"). **Digicampuksen verkkokurssista osiot 1-3 riittää**; verkkokurssi on todella hyvä ja se kannattaa käydä läpi (kestää n. 30min). 
 
-## 07 Kuulon suojaaminen, kuulo ja työ, tinnitus {#Kuulon-suojaaminen}
+## 06 Kuulon suojaaminen, kuulo ja työ, tinnitus {#Kuulon-suojaaminen}
+
+## 07 Korvaperäisen huimauksen diagnostiikka {#Korvaperaisen-huimauksen-diagnostiikka}

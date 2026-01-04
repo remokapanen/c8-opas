@@ -4,9 +4,9 @@ korvan-rakenne-toiminta-ja-tavalliset-poikkeavuudet
 Korvakaytavatulehdus
 Valikorva1
 Valikorva2
-Kuulokayra
-Korvaperaisen-huimauksen-diagnostiikka
+Audiometria
 Kuulon-suojaaminen
+Korvaperaisen-huimauksen-diagnostiikka
 neuro
 psykiatria
 palaute
