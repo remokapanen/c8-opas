@@ -1,5 +1,7 @@
 # KNK
 
+Alkukuulustelun uudelleenrakennetut tärpit: https://knkalkukuulustelutarpit.netlify.app/
+
 ## 01 Korvan rakenne, toiminta ja tavalliset poikkeavuudet
 
 Pääasiassa vain kertausta C2:n Aistit-kurssilta. Diat riittävät, mutta jos jää epäselvyyksiä, niin voi katsoa seuraavia videoita:
