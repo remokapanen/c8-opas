@@ -8,5 +8,6 @@ Audiometria
 Kuulon-suojaaminen
 Korvaperaisen-huimauksen-diagnostiikka
 neuro
+päänsärky
 psykiatria
 palaute
