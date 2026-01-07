@@ -10,4 +10,6 @@ Korvaperaisen-huimauksen-diagnostiikka
 neuro
 päänsärky
 psykiatria
+psykoosit
+section
 palaute

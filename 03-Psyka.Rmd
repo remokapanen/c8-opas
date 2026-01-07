@@ -1,3 +1,19 @@
 # Psykiatria
 
+## 01 Psykoosit 
 
+Tägi käsittelee Psykoosit 1 ja 2. _En suosittele opiskelemaan ainoastaan dioista,_ koska ne ovat jokseenkin sekavat eivätkä auta luomaan selkeää kuvaa psykoosista ainakaan ensimateriaalina. Opiskelua myös häiritsee se, että käytössä on kolme eri diagnostista kriteeristöä: vielä käytössä oleva ICD-10, tulossa oleva ICD-11 (Suomessa vielä käytössä ICD-10; ICD-11 suunnitelmissa käyttöön 2028 kesästä alkaen) ja jenkeissä sekä tutkimuksissa käytössä oleva DSM-5. 
+
+- Itse koen, että DSM-5-kriteeristö ja psykoosispektrumin luokittelu on näistä helpoimmin ymmärrettävissä, joten olen siihen nojannut korteissa tulevan ICD-11-luokituksen kanssa. ICD-10 ja sen monimutkainen skitsofreniaspektrin jaottelutapa tulee poistumaan lähivuosina suomalaisistakin suosituksista, joten en ole sitä availlut.  
+- Skitsofrenian diagnoosin asettaa kuitenkin psykiatrian erikoislääkäri, joten kriteeristön tarkka hallinta ei ole vaadittua. Kriteeristön tietäminen kuitenkin auttaa mielestäni oireyhtymien ymmärtämisessä. 
+  - Perusterveydenhuollon tehtävä on pääasiassa tunnistaa psykoosi ja psykoosiriski, selvittää mahdolliset somaattiset syyt psykoosille ja jatkaa hyvässä hoitotasapainossa olevan potilaan hoitoa.
+
+**Erityisen hyvä opetusvideo (20 min) aiheesta löytyy [OnlineMedEdiltä](https://onlinemeded.org/spa/psychiatry/psychotic-disorders/acquire) laillisestikin ilmaiseksi.**
+
+- Lisäksi kannattaa katsoa **psykoosilääkkeiden SketchyPharm-videot,** jos farmakologia on päässyt unohtumaan. 
+- Voi myös silmäillä [skitsofrenian](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00840/) ja akuutin psykoosin [Terveysportti-artikkeleita](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt01694/) 
+- Myös oppikirjasta voi lukea [Skitsofreniasta ja muista psykooseista](https://www.oppiportti.fi/oppikirjat/pkr00054). **Kannattaa lukea myös ainakin [katatoniasta](https://www.oppiportti.fi/oppikirjat/ysp03104), koska sen oireiden tunnistaminen on osa skitsofrenian (ja monien muiden psykiatristen häiriöiden) tunnistamista.**
+
+Jos haluaa koulun materiaaleja selata lisää psykoosiin liittyen, niin tägiin kuuluu periaatteessa myös _psykoosidiat "Päivystyspsykiatria"-luennosta_
+
+## 
