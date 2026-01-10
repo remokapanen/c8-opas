@@ -47,4 +47,6 @@ Ei sinänsä tarvitse lukea dioja eikä kirjaa (käsittelee kappaleen 1.4 "Ään
 
 ## 06 Kuulon suojaaminen, kuulo ja työ, tinnitus {#Kuulon-suojaaminen}
 
+Diat sinänsä riittävät, tosin suosittelen lukemaan ehkä jopa niiden sijasta kirjasta kpl 1.12 osiot "Meluvamma" + "Äkillinen kuulonmenetys" + "Tinnitus". 
+
 ## 07 Korvaperäisen huimauksen diagnostiikka {#Korvaperaisen-huimauksen-diagnostiikka}
