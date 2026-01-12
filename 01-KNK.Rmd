@@ -50,3 +50,19 @@ Ei sinänsä tarvitse lukea dioja eikä kirjaa (käsittelee kappaleen 1.4 "Ään
 Diat sinänsä riittävät, tosin suosittelen lukemaan ehkä jopa niiden sijasta kirjasta kpl 1.12 osiot "Meluvamma" + "Äkillinen kuulonmenetys" + "Tinnitus". 
 
 ## 07 Korvaperäisen huimauksen diagnostiikka {#Korvaperaisen-huimauksen-diagnostiikka}
+
+Käsittelee sekä neurologian kurssin luennon "Huimaus"; kortit ovat tägätty täysin samoin tähän kuin neuron alle -> lue molemmat diapaketit. Diojen ja huimausdemon ennakkomateriaalien lisäksi **suosittelen vahvasti katsomaan youtubesta Peter Johnsin videoita vertigosta;** erityisesti seuraavat videot ovat äärettömän hyviä: 
+
+- [Big 3 of vertigo](https://youtu.be/MwbqJvMDonU?si=h--LtKuzrajJBFlT)
+  - Käytännössä akuutin vertigon diagnostiikassa riittää, jos osaa diagnosoida BPPV:n ja vestibulaarineuriitin sekä epäillä strokea. On paljon muitakin huimauksen syitä, mutta nämä ovat selvästi tärkeimmät ja niiden erotusdiagnostinen algoritmi on osattava.   
+  - Jos diagnoosi sopii näiden ulkopuolelle, niin voi miettiä mm. vestibulaarimigreeniä ja Menieren tautia. Usein on hyvä lähettää potilas vertigoekspertille tarkempaan arvioon; nämä muut diagnoosit eivät yleensä oikein ole aikapaineistettuja, joten ei haittaa vaikka ei keksisikään esim. Menieren taudin diagnoosia heti.
+- [BPPV Dix Hallpike Test and Epley Maneuver](https://youtu.be/LxD-lgqix-s?si=m73_SsbD79vOCS8x)
+  - [How to Diagnose and Treat Horizontal Canal BPPV](https://youtu.be/iOJOArGmepM?si=wmEc_hDiOYvNvh7X)
+- [The HINTS exam](https://youtu.be/1q-VTKPweuk?si=uCtaqX3SXJKoptjl)
+- [A Basic, Simplified Approach to the Dizzy Patient Part 1](https://youtu.be/9fQlnDLVeCE?si=J19Ils5NVXFQ56rC)
+- [A Basic, Simplified Approach to the Dizzy Patient Part 2](https://youtu.be/FwUAUtm-_fM?si=hqeNRzIbKUWaDeRX)
+- [Why you shouldn't do the HINTS exam on patients who DON'T have nystagmus](https://youtu.be/L4nOD8YdV-s?si=mFkUYMnclKZmmshc)
+- [How to look very carefully for nystagmus by using a blank piece of paper](https://youtu.be/eGcUTfeHvZg?si=ADIZhZ5ySUx2k9a0)
+- [Vestibular Migraine](https://youtu.be/XPIyXiv0UKg?si=wOTdml4O0axXaaOU)
+
+Jos ei tykkää katsoa videoita, niin kannattaa ainakin lukea seuraavat artikkelit: [Constant vertigo and nystagmus algorithm](https://caep.ca/periodicals/Volume_22_Issue_4/Vol_22_Issue_4_Page_463_-_467_Johns.pdf) ja [HINTS masterclass](https://www.edguidelines.com/the-hints-exam-masterclass-how-to-understand-and-perform-perfectly/)

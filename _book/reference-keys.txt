@@ -9,7 +9,7 @@ Kuulon-suojaaminen
 Korvaperaisen-huimauksen-diagnostiikka
 neuro
 päänsärky
+huimaus
 psykiatria
 psykoosit
-section
 palaute
