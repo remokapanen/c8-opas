@@ -24,3 +24,9 @@ Käsittelee sekä KNK:n kurssin luennon "Korvaperäisen huimauksen diagnostiikka
 - [Vestibular Migraine](https://youtu.be/XPIyXiv0UKg?si=wOTdml4O0axXaaOU)
 
 Jos ei tykkää katsoa videoita, niin kannattaa ainakin lukea seuraavat artikkelit: [Constant vertigo and nystagmus algorithm](https://caep.ca/periodicals/Volume_22_Issue_4/Vol_22_Issue_4_Page_463_-_467_Johns.pdf) ja [HINTS masterclass](https://www.edguidelines.com/the-hints-exam-masterclass-how-to-understand-and-perform-perfectly/)
+
+## 03 Aivoverenkiertohäiriöt (AVH) 
+
+Käsittää sekä AVH-luennon että seminaarin, käy molempien diat läpi. Verenvuotoja ei tämän tägin alla, vaan keskitytty iskeemisiin aivoverenkiertohäiriöihin. 
+
+- OnlineMedEd:llä on todella hyvä video strokesta; ei löydy laillisesti, mutta löytyy [täältä Telegrammiin ladattuna](https://t.me/s/USMLEOnlineMedED/187)

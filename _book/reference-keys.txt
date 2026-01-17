@@ -12,6 +12,7 @@ kuuloapuvälineet-ja-kuulon-kuntoutus
 neuro
 päänsärky
 huimaus
+aivoverenkiertohäiriöt-avh
 psykiatria
 psykoosit
 palaute
