@@ -9,6 +9,7 @@ Kuulon-suojaaminen
 Korvaperaisen-huimauksen-diagnostiikka
 lasten-kuulon-seulonta-ja-tutkiminen
 kuuloapuvälineet-ja-kuulon-kuntoutus
+kaulakyhmyt-ja-sylkirauhasen-sairaudet
 neuro
 päänsärky
 huimaus
