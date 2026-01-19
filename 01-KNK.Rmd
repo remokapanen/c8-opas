@@ -73,7 +73,7 @@ Diat riittävät.
 
 Kirjasta käsittelee kappaleet 1.6 "Okoakustiset emissiot", 1.7 "Lasten kuulotutkimukset", 1.8 "Sähköiset kuuloherätevasteet" ja 1.16 "Kuuloseulonnat". 
 
-## 09 Kuuloapuvälineet ja kuulon kuntoutus
+## 09 Kuuloapuvälineet ja kuulon kuntoutus {#Kuuloapuvalineet}
 
 Diat riittävät. 
 
@@ -89,3 +89,11 @@ Diat heikohkot, mutta riittävät sinänsä. Kannattaa silmäillä tarvittaessa 
 - [Evaluation of a Neck Mass -luento Youtubessa](https://youtu.be/X6c1p6z9BjA?si=lANYNUXG4pFelAv9)
 
 Kirjasta käsittelee kappaleen 4 "Sylkirauhaset" ja kappaleen 6 "Kaulan alueen sairaudet". 
+
+## 11 Pään ja kaulan alueen pahanlaatuiset kasvaimet {#Paan-ja-kaulan-syovat}
+
+Diat todella heikot. 
+
+Kirjasta käsittelee kappaleen 7 "Pään ja kaulan alueen pahanlaatuiset kasvaimet". Käytännössä voi lukea vain kpl 7.1 "Yleistä pään ja kaulan alueen syövistä", sillä diapakettikin käsittelee pääasiassa vain pään ja kaulan alueen syöpien yleisiä perusteita. Suosittelen lukemaan sen mieluummin kuin pelkät diat.
+
+- Eri osien syöpiä käsitellään vielä niiden omilla luennoillaan, joten esim. suuontelon, kurkunpään tuumorien ja nenän/sivuonteloiden tuumorien kortteja sitten tarkemmin sopivien luentojen alla. 

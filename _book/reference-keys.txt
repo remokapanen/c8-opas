@@ -8,8 +8,9 @@ Audiometria
 Kuulon-suojaaminen
 Korvaperaisen-huimauksen-diagnostiikka
 lasten-kuulon-seulonta-ja-tutkiminen
-kuuloapuvälineet-ja-kuulon-kuntoutus
+Kuuloapuvalineet
 kaulakyhmyt-ja-sylkirauhasen-sairaudet
+Paan-ja-kaulan-syovat
 neuro
 päänsärky
 huimaus
