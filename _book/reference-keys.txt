@@ -11,6 +11,7 @@ lasten-kuulon-seulonta-ja-tutkiminen
 Kuuloapuvalineet
 kaulakyhmyt-ja-sylkirauhasen-sairaudet
 Paan-ja-kaulan-syovat
+suun-limakalvomuutosten-diagnostiikka
 neuro
 päänsärky
 huimaus
