@@ -14,6 +14,7 @@ Paan-ja-kaulan-syovat
 suun-limakalvomuutosten-diagnostiikka
 nielemisvaikeus-ja-palan-tunne
 Kurkunpaan-toiminta-ja-aanihairiosairaudet
+Aanihuulihalvaus
 neuro
 päänsärky
 huimaus
