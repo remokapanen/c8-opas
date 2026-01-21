@@ -13,6 +13,7 @@ kaulakyhmyt-ja-sylkirauhasen-sairaudet
 Paan-ja-kaulan-syovat
 suun-limakalvomuutosten-diagnostiikka
 nielemisvaikeus-ja-palan-tunne
+Kurkunpaan-toiminta-ja-aanihairiosairaudet
 neuro
 päänsärky
 huimaus
