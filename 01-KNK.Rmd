@@ -119,5 +119,6 @@ Kirjasta käsittelee kappaleet 3.7 "Nieleminen" ja 3.16 "Nielemisvaikeus ja pala
 Diat riittävät. 
 
 - Voi lisäksi lueskella ["Käheä ääni - missä vika"-artikkelin](https://helda.helsinki.fi/server/api/core/bitstreams/69fcc359-f2df-4eea-8c08-3ab8cc0323de/content)
+- Ei pakollista katsoa, mutta [hyvä video erilaisista äänihäiriöistä](https://youtu.be/SwfrCKt1WaE?si=XbE-NibF0ER1W2A4)
 
 Kirjasta käsittelee kappaleet 5.1-5.3 (Kurkunpään kehitys ja rakenne + Kurkunpään fysiologia + Kurkunpään tutkiminen), 5.5 "Kurkunpään tulehdustaudit", 5.8 "Äänihuulten hyvänlaatuiset muutokset" ja 7.6 "Kurkunpään syöpä". 
