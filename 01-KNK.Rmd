@@ -128,3 +128,7 @@ Kirjasta käsittelee kappaleet 5.1-5.3 (Kurkunpään kehitys ja rakenne + Kurkun
 Diat riittävät, voi myös kattoa Moodlesta-löytyvän luentotallenteen. 
 
 Kirjasta käsittelee kappaleet 5.1 "Kurkunpään kehitys ja rakenne" ja 5.6 "Kurkunpään toimintahäiriöt". 
+
+## 16 Puheterapia 
+
+Diat riittävät ja ne voi enemmänkin vain silmäillä läpi. Kortteina toimii vain muutamat terminologiakysymykset. 

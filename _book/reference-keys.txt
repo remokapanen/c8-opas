@@ -15,6 +15,7 @@ suun-limakalvomuutosten-diagnostiikka
 nielemisvaikeus-ja-palan-tunne
 Kurkunpaan-toiminta-ja-aanihairiosairaudet
 Aanihuulihalvaus
+puheterapia
 neuro
 päänsärky
 huimaus
