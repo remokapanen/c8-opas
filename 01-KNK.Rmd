@@ -132,3 +132,9 @@ Kirjasta käsittelee kappaleet 5.1 "Kurkunpään kehitys ja rakenne" ja 5.6 "Kur
 ## 16 Puheterapia 
 
 Diat riittävät ja ne voi enemmänkin vain silmäillä läpi. Kortteina toimii vain muutamat terminologiakysymykset. 
+
+## 17 Nenän anatomia ja toiminta {#Nenan-anatomia}
+
+Katso "Nenän anatomia ja toiminta"-luentotallenne.
+
+Kirjasta käsittelee kappaleet 2.1-2.3.
