@@ -17,6 +17,7 @@ Kurkunpaan-toiminta-ja-aanihairiosairaudet
 Aanihuulihalvaus
 puheterapia
 Nenan-anatomia
+Tukkoinen-nena
 neuro
 päänsärky
 huimaus
