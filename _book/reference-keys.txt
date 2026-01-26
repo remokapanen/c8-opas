@@ -19,6 +19,7 @@ puheterapia
 Nenan-anatomia
 Tukkoinen-nena
 Rinosinuiitti
+knk-radiologia-perusterveydenhuollossa
 neuro
 päänsärky
 huimaus
