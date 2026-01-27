@@ -20,6 +20,8 @@ Nenan-anatomia
 Tukkoinen-nena
 Rinosinuiitti
 knk-radiologia-perusterveydenhuollossa
+Hammasperainen-infektio
+Henkea-uhkaavat-KNK-infektiot
 neuro
 päänsärky
 huimaus

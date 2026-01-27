@@ -159,3 +159,21 @@ Kirjasta kpl 2.4 sopivilta osin: "Akuutti rinosinuiitti" - "Lapsen rinosinuiitti
 ## 20 KNK-radiologia perusterveydenhuollossa 
 
 Diat riittävät, kannattaa myös silmäillä viime vuoden "Sinuskuvien tulkinta"-luento. 
+
+## 21 Hammasperäinen infektio {#Hammasperainen-infektio}
+
+Tässä luennossa käsitellään osittain samaa asiaa kuin seuraavassakin luennossa eli syviä kaulainfektioita. Saattaa olla hyvä lueskella molemmat diapaketit läpi ja tehdä kortit putkeen, mutta ne voi myös tehdä erillään toisistaan. Tämän luennon diat ovat tutkimuspainotteisia (eli heikkoja), mutta ne sinänsä riittävät. Lisäksi voi lukea: 
+
+- [Artikkeli: Hammasperäinen infektio kaipaa toimenpiteitä – ei pelkkää antibioottia](https://www.terveysportti.fi/apps/dtk/ltk/article/yll00078/). Tämän voi melkein lukea luennon sijaan.  
+- [Artikkeli: Mikrobilääkkeet hammasperäisten infektioiden hoidossa ja komplikaatioiden ehkäisyssä](https://www.terveysportti.fi/apps/dtk/ltk/article/hoi50090/). Tämä on myös hyvä ja kattava artikkeli aiheesta. 
+
+## 22 Henkeä uhkaavat KNK-infektiot {#Henkea-uhkaavat-KNK-infektiot}
+
+Diat riittävät. 
+
+- Kannattaa kuitenkin lukea tämän artikkelin alkuosa [Silmäkuopan akuuteista tulehduksista](https://www.terveysportti.fi/apps/dtk/ltk/article/sll43384/), koska dioissa tämä aihe on hyvin epäselvästi opetettu. Myös tämä artikkeli: ["Simäluomen selluliitti ja orbitaselluliitti"](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00948/) kannattaa lukea. 
+  - SketchyPeds löytyy myös aiheesta video
+- ["Peritonsilliitti ja nielupaise"](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00984/) on myös hyvä artikkeli
+  - SketchyPeds löytyy myös aiheesta video
+
+Kirjasta luentoon sopiva osa on kpl 3.13:n "Peritonsilliitti ja nielupaise". 
