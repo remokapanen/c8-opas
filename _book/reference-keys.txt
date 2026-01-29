@@ -22,6 +22,9 @@ Rinosinuiitti
 knk-radiologia-perusterveydenhuollossa
 Hammasperainen-infektio
 Henkea-uhkaavat-KNK-infektiot
+nielutulehdukset
+risakirurgia
+kuorsaus-ja-uniapnea
 neuro
 päänsärky
 huimaus
