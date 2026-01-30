@@ -2,6 +2,8 @@
 
 Alkukuulustelun uudelleenrakennetut tärpit: https://knkalkukuulustelutarpit.netlify.app/
 
+Tägit ovat luennoittain, mutta eivät seuraa samaa järjestystä kuin missä luennot pidetään. Järjestys onkin sen mukainen, miten itse suosittelen asiat opiskelemaan. 
+
 ## 01 Korvan rakenne, toiminta ja tavalliset poikkeavuudet
 
 Pääasiassa vain kertausta C2:n Aistit-kurssilta. Diat riittävät, mutta jos jää epäselvyyksiä, niin voi katsoa seuraavia videoita:
@@ -201,3 +203,8 @@ Luentotallenne riittää.
 
 Kirjasta käsittelee kpl 3.15. 
 
+## 26 Kasvo- ja kuulohermo 
+
+Diat riittävät. 
+
+Kirjasta käsittelee kpl 1.13.

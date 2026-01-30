@@ -25,6 +25,7 @@ Henkea-uhkaavat-KNK-infektiot
 nielutulehdukset
 risakirurgia
 kuorsaus-ja-uniapnea
+kasvo--ja-kuulohermo
 neuro
 päänsärky
 huimaus
