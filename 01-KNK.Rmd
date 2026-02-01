@@ -208,3 +208,18 @@ Kirjasta käsittelee kpl 3.15.
 Diat riittävät. 
 
 Kirjasta käsittelee kpl 1.13.
+
+## 27 Kasvomurtumat, hammasvammat, kaulavammat ja hengitysteiden vierasesineet
+
+Lue diat luennoista "Suun ja leukojen tapaturmat ja niiden ensihoito" sekä "Kasvo- ja kaulavammat + Hengitysteiden vierasesineet".
+
+- Voi myös käydä läpi kasvomurtumien ja hammasvammojen [Duodecim-verkkokurssi](https://www.oppiportti.fi/dvk00242), jota kurssiohjelman Excelissäkin suositellaan. Ei ole kuitenkaan älyttömän tarpeellinen, käy vain läpi kasvovammapotilaan tutkimista eikä mitään statustamisasioita oikein voi oppia lukemalla.  
+
+Kaulavammoja ei sinänsä ole järkevää opetella liian syvällisesti, ne lähetetään aina kiireisesti päivystykseen. Tämän takia niistä ei ole kortteja. 
+
+- SketchySurgeryssa on kaulavammavideo, jos haluaa opetella hieman tarkemmin aihetta. 
+
+Kirjasta käsittelee kpl 8.1-8.3 sekä hengitystieavausten suhteen kpl 5.9
+
+- Artikkeli ["Vierasesine hengitysteissä"](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00188/) voi myös olla hyvää luettavaa
+- Samoin ["Vierasesine lapsen ruoansulatuskanavassa"](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00768/)

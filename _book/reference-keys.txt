@@ -26,6 +26,7 @@ nielutulehdukset
 risakirurgia
 kuorsaus-ja-uniapnea
 kasvo--ja-kuulohermo
+kasvomurtumat-hammasvammat-kaulavammat-ja-hengitysteiden-vierasesineet
 neuro
 päänsärky
 huimaus
