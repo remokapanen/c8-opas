@@ -2,6 +2,8 @@
 
 Alkukuulustelun uudelleenrakennetut tärpit: https://knkalkukuulustelutarpit.netlify.app/
 
+Lopputentin uudelleenrakennetut tärpit: https://knktarpit.netlify.app/
+
 Tägit ovat luennoittain, mutta eivät seuraa samaa järjestystä kuin missä luennot pidetään. Järjestys onkin sen mukainen, miten itse suosittelen asiat opiskelemaan. 
 
 ## 01 Korvan rakenne, toiminta ja tavalliset poikkeavuudet
