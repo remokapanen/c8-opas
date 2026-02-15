@@ -15,3 +15,13 @@ Tägi käsittelee Psykoosit 1 ja 2. _En suosittele opiskelemaan ainoastaan diois
 - Myös oppikirjasta voi lukea [Skitsofreniasta ja muista psykooseista](https://www.oppiportti.fi/oppikirjat/pkr00054). **Kannattaa lukea myös ainakin [katatoniasta](https://www.oppiportti.fi/oppikirjat/ysp03104), koska sen oireiden tunnistaminen on osa skitsofrenian (ja monien muiden psykiatristen häiriöiden) tunnistamista.**
 
 Jos haluaa koulun materiaaleja selata lisää psykoosiin liittyen, niin tägiin kuuluu periaatteessa myös _psykoosidiat "Päivystyspsykiatria"-luennosta_
+
+## 02 Mielialahäiriöt 
+
+Tägi käsittelee Mielialahäiriöt 1 ja 2, kannattaa käydä ne molemmat läpi ennen kortteja (tai ainakin käydä 2 läpi sitten, kun alkaa hoitoon liittyviä kortteja ilmestymään). 
+
+- OnlineMedEd:ltä löytyy telegrammista (tai laillisestikin ostamalla) kaksi hyvää mielialahäiriövideota: "Mood Disorders I" ja "Death, Dying & Babies"
+- **SketchyPharmin masennuslääkevideot (ja mielialan tasaajien, erityisesti litiumin video) kannattaa katsoa myös, jos farmis päässyt unohtumaan. Näiden kortit on tägätty tähänkin, mutta ne on flägätty punaisella, jos niiden kertaaminen ei tunnu tarpeelliselta.**
+- SketchyPsych:ltä löytyy kaksi videota, mutta ne vain käyvät läpi SIGECAPS- ja DIGFAST-muistisäännöt; eivät ole niin tärkeitä
+
+[Masennuksen Käypä Hoito](https://www.kaypahoito.fi/hoi50023) kannattaa käydä läpi, samoin voi silmäillä [kaksisuuntaisen mielialahäiriön Käypä Hoitoa](https://www.kaypahoito.fi/hoi50076). 
