@@ -34,5 +34,6 @@ aivoverenkiertohäiriöt-avh
 tajuttomuus
 psykiatria
 psykoosit
-mielialahäiriöt
+Mielialahairiot
+M1
 palaute

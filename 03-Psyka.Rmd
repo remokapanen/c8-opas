@@ -16,7 +16,7 @@ Tägi käsittelee Psykoosit 1 ja 2. _En suosittele opiskelemaan ainoastaan diois
 
 Jos haluaa koulun materiaaleja selata lisää psykoosiin liittyen, niin tägiin kuuluu periaatteessa myös _psykoosidiat "Päivystyspsykiatria"-luennosta_
 
-## 02 Mielialahäiriöt 
+## 02 Mielialahäiriöt {#Mielialahairiot}
 
 Tägi käsittelee Mielialahäiriöt 1 ja 2, kannattaa käydä ne molemmat läpi ennen kortteja (tai ainakin käydä 2 läpi sitten, kun alkaa hoitoon liittyviä kortteja ilmestymään). 
 
@@ -25,3 +25,7 @@ Tägi käsittelee Mielialahäiriöt 1 ja 2, kannattaa käydä ne molemmat läpi 
 - SketchyPsych:ltä löytyy kaksi videota, mutta ne vain käyvät läpi SIGECAPS- ja DIGFAST-muistisäännöt; eivät ole niin tärkeitä
 
 [Masennuksen Käypä Hoito](https://www.kaypahoito.fi/hoi50023) kannattaa käydä läpi, samoin voi silmäillä [kaksisuuntaisen mielialahäiriön Käypä Hoitoa](https://www.kaypahoito.fi/hoi50076). 
+
+## 03 Tarkkailulähete (M1) ja tahdosta riippumaton hoito {#M1}
+
+Diat riittävät. 
