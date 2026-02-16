@@ -36,4 +36,5 @@ psykiatria
 psykoosit
 Mielialahairiot
 M1
+psykoterapiat
 palaute
