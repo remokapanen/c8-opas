@@ -37,4 +37,5 @@ psykoosit
 Mielialahairiot
 M1
 psykoterapiat
+Ahdistuneisuushairiot
 palaute
