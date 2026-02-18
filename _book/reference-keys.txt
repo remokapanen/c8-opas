@@ -38,4 +38,5 @@ Mielialahairiot
 M1
 psykoterapiat
 Ahdistuneisuushairiot
+Elimellisoireiset-hairiot
 palaute
