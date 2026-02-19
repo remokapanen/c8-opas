@@ -50,3 +50,16 @@ Tägin lopussa lisäksi hieman itse aiheutetuista häiriöistä (factitiuous dis
 - [Simulaatio](https://www.oppiportti.fi/oppikirjat/pkr00185)
 
 OnlineMedEdiltä löytyy tästäkin video ja kannattaa katsoa se, vaikka se käsitteleekin oireyhtymät DSM-5-kriteeristön mukaan.
+
+## 07 Persoonallisuushäiriöt 
+
+Opiskelua taas häiritsee diagnostisten luokitusten (ICD-10, -11 ja DSM-5) erot; kaikki luokittelevat häiriöt omalla tavallaan. 
+
+- Kannattaa opetella pääasiassa DSM-5:n luokituksen kautta osittain sen takia, että se luokittelee häiriöt kivasti omiin luokkiinsa (A-, B- ja C-clusterit), ja myös osittain sen takia, että tämä on myös dioissa käytetty jako 
+- Samojen häiriöiden diagnostiset kriteerit voivat erota ICD-10:n ja DSM-5:n välillä hieman, dioissa enemmän DSM-5:sta. 
+
+Ainoa persoonallisuushäiriö, josta on tenteissä kysytty, on epävakaa persoonallisuushäiriö; varsinkin se kannattaa ottaa siis haltuun.
+
+- HealthyGamerGG eli Dr. K on tehnyt [hyvän videon BPD:stä](https://youtu.be/6TS4d-zqRFA?si=GZKF1BlMXSyU0ihH)
+
+Esimerkkihahmot korteissa ovat vähän animepainotteisia, koska sivistymättömyyteni takia en keksinyt yhtä helposti esimerkkejä muista mediatyypeistä. 

@@ -39,4 +39,5 @@ M1
 psykoterapiat
 Ahdistuneisuushairiot
 Elimellisoireiset-hairiot
+persoonallisuushäiriöt
 palaute
