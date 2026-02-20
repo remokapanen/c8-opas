@@ -51,7 +51,7 @@ Tägin lopussa lisäksi hieman itse aiheutetuista häiriöistä (factitiuous dis
 
 OnlineMedEdiltä löytyy tästäkin video ja kannattaa katsoa se, vaikka se käsitteleekin oireyhtymät DSM-5-kriteeristön mukaan.
 
-## 07 Persoonallisuushäiriöt 
+## 07 Persoonallisuushäiriöt {#Persoonallisuushairiot}
 
 Opiskelua taas häiritsee diagnostisten luokitusten (ICD-10, -11 ja DSM-5) erot; kaikki luokittelevat häiriöt omalla tavallaan. 
 
@@ -63,3 +63,8 @@ Ainoa persoonallisuushäiriö, josta on tenteissä kysytty, on epävakaa persoon
 - HealthyGamerGG eli Dr. K on tehnyt [hyvän videon BPD:stä](https://youtu.be/6TS4d-zqRFA?si=GZKF1BlMXSyU0ihH)
 
 Esimerkkihahmot korteissa ovat vähän animepainotteisia, koska sivistymättömyyteni takia en keksinyt yhtä helposti esimerkkejä muista mediatyypeistä. 
+
+## 08 Päihdelääketiede I {#Paihdelaaketiede-I}
+
+Diat riittävät. 
+
