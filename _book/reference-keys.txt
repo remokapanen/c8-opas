@@ -42,4 +42,5 @@ Elimellisoireiset-hairiot
 Persoonallisuushairiot
 Paihdelaaketiede-I
 Paihdelaaketiede-II
+Itsetuhokayttaytyminen
 palaute
