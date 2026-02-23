@@ -25,7 +25,7 @@ Käsittelee sekä KNK:n kurssin luennon "Korvaperäisen huimauksen diagnostiikka
 
 Jos ei tykkää katsoa videoita, niin kannattaa ainakin lukea seuraavat artikkelit: [Constant vertigo and nystagmus algorithm](https://caep.ca/periodicals/Volume_22_Issue_4/Vol_22_Issue_4_Page_463_-_467_Johns.pdf) ja [HINTS masterclass](https://www.edguidelines.com/the-hints-exam-masterclass-how-to-understand-and-perform-perfectly/)
 
-## 03 Aivoverenkiertohäiriöt (AVH) 
+## 03 Aivoverenkiertohäiriöt (AVH) {#AVH}
 
 Käsittää sekä AVH-luennon että seminaarin, käy molempien diat läpi. Verenvuotoja ei tämän tägin alla, vaan keskitytty iskeemisiin aivoverenkiertohäiriöihin. 
 
@@ -37,3 +37,7 @@ Diat sinänsä riittävät, vaikka ovatkin vähän köyhät.
 
 - Kannattaa silmäillä [Tajuton potilas -artikkeli Terveysportista](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00870/) ja [Tajunnan häiriö -artikkeli Akuuttihoito-oppaasta](https://www.terveysportti.fi/apps/dtk/aho/article/aho00801). 
 - Jos haluaa tarkemmin lueskella aiheesta, niin [oppikirjan Tajuttomuus-kappaleesta](https://www.oppiportti.fi/oppikirjat/neu00246) löytyy lisää
+
+## 05 Uni- ja vireystilahäiriöt {#Uni-ja-vireystilahairiot}
+
+Diat riittävät, samoja asioita käsitellään myös Psykiatrin kurssilla (kts. psykan tägi nro 11). Psykan kurssin alle on tägätty samat kortit kuin tähän tägiin ja niiden lisäksi myös unettomuutta käsitteleviä kortteja. 

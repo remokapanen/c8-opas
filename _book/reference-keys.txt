@@ -27,11 +27,13 @@ risakirurgia
 kuorsaus-ja-uniapnea
 kasvo--ja-kuulohermo
 kasvomurtumat-hammasvammat-kaulavammat-ja-hengitysteiden-vierasesineet
+otoneurologian-seminaari
 neuro
 päänsärky
 huimaus
-aivoverenkiertohäiriöt-avh
+AVH
 tajuttomuus
+Uni-ja-vireystilahairiot
 psykiatria
 psykoosit
 Mielialahairiot
@@ -43,4 +45,5 @@ Persoonallisuushairiot
 Paihdelaaketiede-I
 Paihdelaaketiede-II
 Itsetuhokayttaytyminen
+unihäiriöt
 palaute
