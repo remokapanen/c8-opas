@@ -45,4 +45,5 @@ Paihdelaaketiede-I
 Paihdelaaketiede-II
 Itsetuhokayttaytyminen
 unihäiriöt
+neuropsykiatria
 palaute
