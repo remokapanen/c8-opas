@@ -27,6 +27,7 @@ risakirurgia
 kuorsaus-ja-uniapnea
 kasvo--ja-kuulohermo
 kasvomurtumat-hammasvammat-kaulavammat-ja-hengitysteiden-vierasesineet
+Nenaverenvuoto
 neuro
 päänsärky
 huimaus
