@@ -1,5 +1,7 @@
 # Psykiatria
 
+Tärpit löytyy: https://psykatarpit.netlify.app/
+
 ## 01 Psykoosit 
 
 Tägi käsittelee Psykoosit 1 ja 2. _En suosittele opiskelemaan ainoastaan dioista,_ koska ne ovat jokseenkin sekavat eivätkä auta luomaan selkeää kuvaa psykoosista ainakaan ensimateriaalina. Opiskelua myös häiritsee se, että käytössä on kolme eri diagnostista kriteeristöä: vielä käytössä oleva ICD-10, tulossa oleva ICD-11 (Suomessa vielä käytössä ICD-10; ICD-11 suunnitelmissa käyttöön 2028 kesästä alkaen) ja jenkeissä sekä tutkimuksissa käytössä oleva DSM-5. 
