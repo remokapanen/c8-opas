@@ -43,3 +43,7 @@ Diat sinänsä riittävät, vaikka ovatkin vähän köyhät.
 ## 05 Uni- ja vireystilahäiriöt {#Uni-ja-vireystilahairiot}
 
 Diat riittävät, samoja asioita käsitellään myös Psykiatrin kurssilla (kts. psykan tägi nro 11). Psykan kurssin alle on tägätty samat kortit kuin tähän tägiin ja niiden lisäksi myös unettomuutta käsitteleviä kortteja. 
+
+## 06 Parkinsonin tauti ja muut liikehäirihäiriöt {#Parkinsonin-tauti}
+
+Diat pääasiassa riittävät, tosin farmakologian suhteen kannattaa katsoa SketchyPharmin Parkinsonin lääkkeet -video. 

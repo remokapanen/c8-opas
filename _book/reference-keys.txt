@@ -34,6 +34,7 @@ huimaus
 AVH
 tajuttomuus
 Uni-ja-vireystilahairiot
+Parkinsonin-tauti
 psykiatria
 psykoosit
 Mielialahairiot
@@ -49,4 +50,5 @@ unihäiriöt
 neuropsykiatria
 Kriisit
 Syomishairiot
+motivoiva-haastattelu
 palaute
