@@ -35,6 +35,9 @@ AVH
 tajuttomuus
 Uni-ja-vireystilahairiot
 Parkinsonin-tauti
+Etenevat-muistisairaudet
+epilepsia
+keskushermoston-infektiot
 psykiatria
 psykoosit
 Mielialahairiot
