@@ -38,6 +38,7 @@ Parkinsonin-tauti
 Etenevat-muistisairaudet
 epilepsia
 keskushermoston-infektiot
+Sekavuus
 psykiatria
 psykoosit
 Mielialahairiot
