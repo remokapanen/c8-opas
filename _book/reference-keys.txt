@@ -39,6 +39,7 @@ Etenevat-muistisairaudet
 epilepsia
 keskushermoston-infektiot
 Sekavuus
+ms-tauti-ja-polyradikuliitti
 psykiatria
 psykoosit
 Mielialahairiot
