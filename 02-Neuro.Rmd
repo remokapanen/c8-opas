@@ -75,3 +75,10 @@ Kannattaa lukea myös KNF:n osion luennoista KNF 2 (ENMG). Aihealueet käsittele
 - Terveysportin [Polyneuropatiat-artikkeli](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00925/) on hyvää luettavaa erotusdiagnostisten vaihtoehtojen läpikäymiseksi. 
 
 Juurivauriot ja esim. Cauda Equina ovat merkattu punaisella oppimistavotteissa, mutta niitä ei kovinkaan paljoa näissä dioissa käydä läpi. Lisää niistä sitten neurokirurgian dioja käsittelevien tägien yhteydessä. 
+
+## 13 Lihassairaudet 
+
+Diat pääasiassa riittävät; monet matalan annin asioista löytää Patologian perusteet -oppikirjasta tai Terveysportista. Tietysti myös neurologia-oppikirjaa voi lukea. 
+
+- [Lihasheikkous ja halvausoire -Terveysportti](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00867/)
+- [Perinnölliset lihastaudit -Terveysportti](https://www.terveysportti.fi/apps/dtk/ltk/article/ykt00920/)

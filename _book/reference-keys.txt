@@ -41,6 +41,7 @@ keskushermoston-infektiot
 Sekavuus
 ms-tauti-ja-polyradikuliitti
 Aareishermoston-sairaudet
+lihassairaudet
 psykiatria
 psykoosit
 Mielialahairiot
