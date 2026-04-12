@@ -42,6 +42,7 @@ Sekavuus
 ms-tauti-ja-polyradikuliitti
 Aareishermoston-sairaudet
 lihassairaudet
+aivovammat
 psykiatria
 psykoosit
 Mielialahairiot
