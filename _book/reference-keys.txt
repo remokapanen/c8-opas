@@ -43,6 +43,7 @@ ms-tauti-ja-polyradikuliitti
 Aareishermoston-sairaudet
 lihassairaudet
 aivovammat
+aivokasvaimet
 psykiatria
 psykoosit
 Mielialahairiot
