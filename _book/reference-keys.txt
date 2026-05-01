@@ -50,6 +50,7 @@ knf2-enmg
 knf-3-neuropaattinen-kipu
 knf-4-kajoamattomat-neuromodulaatiohoidot
 neuro-hifu-ja-aivostimulaatio
+funktionaalinen-neurokirurgia
 psykiatria
 psykoosit
 Mielialahairiot
