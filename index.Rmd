@@ -16,4 +16,3 @@ github-repo: rstudio/bookdown-demo
 
 Tässä oppaassa esitellään lukumateriaalit, jotka kannattaa käydä läpi ennen jokaista tägiä. 
 
-ps. Koska C8 järjestetään blokeissa (olen itse blokissa 1), en ehdi saamaan kaikkia kortteja/tärppirebuildeja valmiiksi jokaiselle blokille ennen kyseisen blokin tenttiä.
