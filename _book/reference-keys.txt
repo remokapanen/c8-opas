@@ -44,6 +44,12 @@ Aareishermoston-sairaudet
 lihassairaudet
 aivovammat
 aivokasvaimet
+Toiminnalliset-hairiot
+KNF1
+knf2-enmg
+knf-3-neuropaattinen-kipu
+knf-4-kajoamattomat-neuromodulaatiohoidot
+neuro-hifu-ja-aivostimulaatio
 psykiatria
 psykoosit
 Mielialahairiot

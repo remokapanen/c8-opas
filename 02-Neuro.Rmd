@@ -90,3 +90,27 @@ Lue sekä neurologian että neurokirurgian aivovammat-luentojen diat; ne riittä
 ## 15 Aivokasvaimet 
 
 Lue sekä neurologian että neurokirurgian aivokasvaimet-luentojen diat; ne pääasiassa riittävät. Lisätukena tietysti oppikirjat ja terveysportti tai Patologian perusteet, jos haluaa oppia erityyppiset aivokasvaimet dioja tarkemmin. 
+
+## 16 Toiminnalliset häiriöt {#Toiminnalliset-hairiot}
+
+Diat riittää 
+
+## 17 KNF1 (EEG ja herätevasteet) {#KNF1}
+
+Diat riittää; tietysti hyvä olla käynyt jo epilepsia (tägi 08) läpi kokonaan omana aihepiirinään. 
+
+## 18 KNF2 (ENMG)
+
+Diat riittää; tietysti hyvä olla käynyt jo ääreishermoston sairaudet (tägi 12) läpi kokonaan omana aihepiirinään.
+
+## 19 KNF 3 (Neuropaattinen kipu)
+
+Diat riittää; tietysti hyvä olla käynyt jo ääreishermoston sairaudet (tägi 12) läpi kokonaan omana aihepiirinään.
+
+## 20 KNF 4 (Kajoamattomat neuromodulaatiohoidot)
+
+Diat riittää
+
+## 21 Neuro-HIFU ja aivostimulaatio
+
+Diat riittää
