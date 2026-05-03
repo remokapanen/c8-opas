@@ -29,7 +29,7 @@ Jos ei tykkää katsoa videoita, niin kannattaa ainakin lukea seuraavat artikkel
 
 ## 03 Aivoverenkiertohäiriöt (AVH) {#AVH}
 
-Käsittää sekä AVH-luennon että seminaarin, käy molempien diat läpi. Verenvuotoja ei tämän tägin alla, vaan keskitytty iskeemisiin aivoverenkiertohäiriöihin. 
+Käsittää sekä AVH-luennon että seminaarin, käy molempien diat läpi. Verenvuotoja ei tämän tägin alla (SAV ja ICH löytyy pääasiassa tägin 23_Neurokirurgia_AVH alta), vaan keskitytty iskeemisiin aivoverenkiertohäiriöihin. 
 
 - OnlineMedEd:llä on todella hyvä video strokesta; ei löydy laillisesti, mutta löytyy [täältä Telegrammiin ladattuna](https://t.me/s/USMLEOnlineMedED/187)
 
@@ -118,3 +118,7 @@ Diat riittää
 ## 22 Funktionaalinen neurokirurgia 
 
 Diat riittää
+
+## 23 Neurokirurgia_AVH
+
+Diat riittää. 
