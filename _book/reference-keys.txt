@@ -52,6 +52,7 @@ knf-4-kajoamattomat-neuromodulaatiohoidot
 neuro-hifu-ja-aivostimulaatio
 funktionaalinen-neurokirurgia
 neurokirurgia_avh
+hydrokefalus
 psykiatria
 psykoosit
 Mielialahairiot
